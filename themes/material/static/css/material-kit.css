@@ -19,6 +19,7 @@
 /* Shadows (from mdl http://www.getmdl.io/) */
 body {
   background-color: #F3F2F1;
+  font-size: 18px;
 }
 body.inverse {
   background: #333333;
@@ -696,20 +697,20 @@ a .material-icons, a:hover .material-icons, a:focus .material-icons {
 .btn.btn-lg, .btn-group-lg .btn,
 .navbar .navbar-nav > li > a.btn.btn-lg, .btn-group-lg
 .navbar .navbar-nav > li > a.btn {
-  font-size: 14px;
+  font-size: 18px;
   padding: 18px 36px;
 }
 .btn.btn-sm, .btn-group-sm .btn,
 .navbar .navbar-nav > li > a.btn.btn-sm, .btn-group-sm
 .navbar .navbar-nav > li > a.btn {
   padding: 5px 20px;
-  font-size: 11px;
+  font-size: 18px;
 }
 .btn.btn-xs, .btn-group-xs .btn,
 .navbar .navbar-nav > li > a.btn.btn-xs, .btn-group-xs
 .navbar .navbar-nav > li > a.btn {
   padding: 4px 15px;
-  font-size: 10px;
+  font-size: 18px;
 }
 .btn.btn-just-icon,
 .navbar .navbar-nav > li > a.btn.btn-just-icon {
