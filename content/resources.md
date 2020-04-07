@@ -80,14 +80,17 @@ https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail
 - IQ Air: https://www.iqair.com/earth
 - NASA Air Quality: https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality
 
-### Non-COVID Health Data 
+### General Health Data 
+
 - State Tobacco Activities: https://www.cdc.gov/statesystem/
 - State Behavioral Risk Factors: https://www.cdc.gov/brfss/data_tools.htm 
 - Data on Excessive Drinking: https://www.cdc.gov/alcohol/data-stats.htm
 
-### COVID Health Data
+### COVID-19 Health Data
 
 - US County-level data from the NY Times: https://github.com/nytimes/covid-19-data
 - Hopkins COVID repo:  https://github.com/CSSEGISandData/COVID-19
 - Tableau COVID resources: https://www.tableau.com/covid-19-coronavirus-data-resources
+- Harvard Dataverse: [Medicine, Health and Life Sciences search](https://dataverse.harvard.edu/dataverse/harvard?q=&fq0=subject_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22&types=dataverses%3Adatasets&sort=dateSort&order=desc)
+- covid19-r: https://github.com/mine-cetinkaya-rundel/covid19-r#data
 
