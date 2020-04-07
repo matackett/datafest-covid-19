@@ -23,7 +23,6 @@ Below are a few suggestions to get you started, but you should feel welcomed to 
 
 - How has the pandemic affected the airline industry and what are some potential downstream effects of this other than economic strain on the industry?
 - As a student, how would you quantify the effect of the pandemic on your education?
-- With shelter in place / lockdown in place, many workers have started working from home, which requires internet access. How prepared was the nation / your local area for this shift?
 - How has the spread of the pandemic affected people’s opinion on government tracking and privacy?
 - What is the effect of the social distancing / shelter in place / lockdown recommendations and policies on pollution?
 - How can we quantify the potential effects on nutrition and general health of the public, outside of those affected by the virus?
@@ -33,9 +32,9 @@ Finally, we have always framed ASA DataFest as a collaborative competition, but 
 
 Your final product should be:
 
-- A slide deck (maximum 3 content slides + title slide) **<u>OR</u>** an interactive app / dashboard
+- A slide deck (maximum 3 content slides + title slide) *<u>OR</u>* an interactive app / dashboard
 accompanied by
-- EITHER a 5 minute video **<u>OR</u>** a one-page write up.
+- EITHER a 5 minute video *<u>OR</u>* a one-page write up.
 
-Note that by participating in ASA DataFest you are agreeing to the A[SA Activities Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx), which applies to all interactions related to ASA DataFest.
+Note that by participating in ASA DataFest you are agreeing to the [ASA Activities Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx), which applies to all interactions related to ASA DataFest.
 
