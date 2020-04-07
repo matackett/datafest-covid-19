@@ -1,5 +1,5 @@
 # datafest-covid-19
 
-Website for ASA DataFest: Virtual COVID-19 Challenge
+Website for ASA DataFest: COVID-19 Virtual Data Challenge
 
 https://www2.stat.duke.edu/datafest-covid19/

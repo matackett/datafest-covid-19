@@ -1,6 +1,6 @@
 ---
 title: "ASA DataFest"
-description: "Virtual COVID-19 Challenge"
+description: "COVID-19 Virtual Data Challenge"
 markup: "mmark"
 ---
 
