@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASA DataFest on DataFest</title>
+    <link>/</link>
+    <description>Recent content in ASA DataFest on DataFest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Competition Details</title>
+      <link>/details.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/details.html</guid>
+      <description>When is the competition? The competition is April 8 through April 22. All projects must be submitted by April 22, 2020 at 11:59p EDT.
+Who is eligible to participate? The competition is open to all undergraduate and MS students at Duke.
+How large are the teams? Teams can be made up of 2 to 5 students.
+Do I have to compete in a team? DataFest is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources.html</guid>
+      <description>Technology resources Accessing software  Duke VM Manage: https://vm-manage.oit.duke.edu/containers
+ Access Docker containers for RStudio, Python Jupyter Notebooks, and other analysis software  RStudio Cloud: https://rstudio.cloud/
+ Tableau:
+ Tableau Public: https://public.tableau.com/en-us/s Tableau Desktop - free student license: https://www.tableau.com/academic   Code repository, version control, and collaboration  GitLab: https://gitlab.oit.duke.edu/
+ GitHub: https://www.github.com
+ Happy Git with R: https://happygitwithr.com/
+  R Shiny resources:  Deploy Shiny app on shinyapps.io: https://docs.</description>
+    </item>
+    
+    <item>
+      <title>Sign up</title>
+      <link>/signup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signup.html</guid>
+      <description>March 17 update: After much consideration, the national ASA DataFest committee has suspended all DataFest events (including virtual competitions) for 2020. We look forward to resuming DataFest next year. Please email Maria Tackett at maria.tackett@duke.edu if you have any questions. We look forward to seeing you at DataFest 2021 @ Duke! TM mailing list to receive updates and announcements. Registration deadline is **March 18, 2020 at 11:59p**. Seats are limited, sign up before it&#39;s too late!</description>
+    </item>
+    
+  </channel>
+</rss>
