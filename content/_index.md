@@ -4,7 +4,8 @@ description: "Virtual COVID-19 Challenge"
 markup: "mmark"
 ---
 
-## Submissions due April 22 at 11:59p EDT
+### Sign-up by April 12; Submissions due April 22
+
 <br><br>
 
 There is currently a lot of work being done on modeling direct health outcomes of the COVID-19 pandemic, such as prediction new cases or mortality rates. You can read more about the complexities of doing such analyses in the article ["Why It’s So Freaking Hard to Make a Good COVID-19 Model”](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/). 
@@ -28,7 +29,7 @@ Below are a few suggestions to get you started, but you should feel welcomed to 
 - How can we quantify the potential effects on nutrition and general health of the public, outside of those affected by the virus?
 - How are refugees affected by COVID-19?
 
-Finally, we have always framed ASA DataFest as a collaborative competition, but this is even more true this year. Local judges will still recognize projects that stand out from the rest on categories like Best Insight, Best Visualization, and Most Creative Dataset or Topic, but we encourage you, now more than ever, to share sources you found useful, approaches you found to be fruitful, or methods you want to learn more about with each other.
+Finally, we have always framed ASA DataFest as a collaborative competition, but this is even more true this year. Local judges will still recognize projects that stand out from the rest on categories like Best Insight, Best Visualization, and Most Creative Data set or Topic, but we encourage you, now more than ever, to share sources you found useful, approaches you found to be fruitful, or methods you want to learn more about with each other.
 
 Your final product should be:
 
