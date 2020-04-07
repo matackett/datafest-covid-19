@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "DataFest"
+title = "DataFest: COVID-19 Virtual Data Challenge"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""

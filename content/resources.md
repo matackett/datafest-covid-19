@@ -3,8 +3,6 @@ title: "Resources"
 markup: "mmark"
 ---
 
-<body style = "size: 18px">
-
 ## Technology resources
 
 ### Accessing software
@@ -39,6 +37,19 @@ You will host your videos or screen casts using [WarpWire](https://launch.warpwi
 - How to upload videos
   - from a computer: https://www.warpwire.com/support/upload/upload-to-media-library/
   - from a mobile device:  https://www.warpwire.com/support/upload/upload-from-a-mobile-device/
+
+<br><br>
+
+## Example Topics
+
+Below are a few suggestions to get you started, but you should feel welcomed to focus on a question different than these.
+
+- How has the pandemic affected the airline industry and what are some potential downstream effects of this other than economic strain on the industry?
+- As a student, how would you quantify the effect of the pandemic on your education?
+- How has the spread of the pandemic affected people’s opinion on government tracking and privacy?
+- What is the effect of the social distancing / shelter in place / lockdown recommendations and policies on pollution?
+- How can we quantify the potential effects on nutrition and general health of the public, outside of those affected by the virus?
+- How are refugees affected by COVID-19?
 
 <br><br>
 
