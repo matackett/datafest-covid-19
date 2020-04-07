@@ -17,16 +17,18 @@
 /* ANIMATION */
 /* SHADOWS */
 /* Shadows (from mdl http://www.getmdl.io/) */
-body {
-  background-color: #F3F2F1;
+body, p, li {
+  /*background-color: #F3F2F1;*/
   font-size: 18px;
 }
+
 body.inverse {
   background: #333333;
 }
 body.inverse, body.inverse .form-control {
   color: #ffffff;
 }
+
 body.inverse .modal,
 body.inverse .modal .form-control,
 body.inverse .panel-default,
@@ -43,7 +45,7 @@ body.inverse .card .form-control {
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4 {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.5em;
 }
 

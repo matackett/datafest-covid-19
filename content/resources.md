@@ -3,6 +3,8 @@ title: "Resources"
 markup: "mmark"
 ---
 
+<body style = "size: 18px">
+
 ## Technology resources
 
 ### Accessing software
