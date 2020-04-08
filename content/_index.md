@@ -4,7 +4,7 @@ description: "COVID-19 Virtual Data Challenge"
 markup: "mmark"
 ---
 
-### Sign-up by April 12; Submissions due April 22
+### Competition starts April 8! 
 
 <br><br>
 
@@ -28,7 +28,7 @@ Finally, we have always framed ASA DataFest as a collaborative competition, but 
 
 #### Ready to join the competition?
 
-Click to [Sign up](/signup.html) for the event by **Sunday, April 12 at 11:59p EDT**.
+Click to [Sign up](/signup.html) for the event by **Sunday, April 12 at 11:59p EDT**. 
 
 Need some inspiration to help you get started? Check out the [Resources](/resources.html) for example topics and datasets.
 
