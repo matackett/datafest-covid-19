@@ -49,5 +49,16 @@ Do I have to compete in a team? DataFest is a collaborative competition, so we s
 If you have any questions about registration, please contact Maria Tackett.</description>
     </item>
     
+    <item>
+      <title>Sponsors</title>
+      <link>/sponsors.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors.html</guid>
+      <description>We would like to thank our sponsors ASA DataFest: COVID-19 Data Challenge!
+
+The Department of Statistical Science at Duke is nationally ranked in the top 5 research departments and as a top 10 graduate program. The Department currently (mid-late 2015) has 18 faculty, ~45 PhD students, ~70 MS students, ~70 research-active undergraduate majors, numerous postdocs, visitors, and affiliated researchers listed under People. Recognized as the world&#39;s leading center for Bayesian statistics and its interdisciplinary applications, the Department is a Duke campus hub for statistical and computational research.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -50,13 +50,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Details"
   pre = "<i class=\"material-icons\">description</i>"
   url = "/details.html"
- 
+
  [[menu.main]]
   weight = 4
   identifier = "resources"
   name = "Resources"
   pre = "<i class=\"material-icons\">help</i>"
   url = "/resources.html"
+
+[[menu.main]]
+  weight = 5
+  identifier = "sponsors"
+  name = "Sponsors"
+  pre = "<i class='fas fa-life-ring'></i>"
+  url = "/sponsors.html"
+
+
 
 
 [[menu.footer]]
