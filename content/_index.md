@@ -34,5 +34,5 @@ Need some inspiration to help you get started? Check out the [Resources](/resour
 
 <br> 
 
-*Note that by participating in ASA DataFest you are agreeing to the [ASA Activities Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx), which applies to all interactions related to ASA DataFest.*
+*Note that by participating in ASA DataFest: COVID-19 Virtual Data Challenge you are agreeing to the [ASA Activities Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx), which applies to all interactions related to ASA DataFest.*
 

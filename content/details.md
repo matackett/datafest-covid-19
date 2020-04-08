@@ -47,7 +47,7 @@ Once the registration window closes, participants will receive an email with a l
 
 ### What will I submit?
 
-There should only be one submission per team. Your submission should include include 
+There should only be one submission per team. Your submission should include
 
 - EITHER a slide deck (maximum 3 content slides + title slide) *<u>OR</u>* an interactive app / dashboard
 - EITHER a 5 minute video or screencast *<u>OR</u>* a one-page write up (single spaced).
@@ -56,7 +56,7 @@ There should only be one submission per team. Your submission should include inc
 
 ### Where can I get help during the competition? 
 
-There will be a periodic Zoom sessions where participants can meet with consultants to ask questions about their analysis. The times and Zoom links for the consulting sessions will be emailed to participants registered for the competition. 
+There will be periodic Zoom sessions where participants can meet with consultants to ask questions about their analysis. The times and Zoom links for the consulting sessions will be emailed to participants registered for the competition. 
 
 If you have any general questions during the competition, please email Prof. Maria Tackett, [maria.tackett@duke.edu](maria.tackett@duke.edu). 
 
