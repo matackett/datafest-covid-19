@@ -93,4 +93,5 @@ https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail
 - Tableau COVID resources: https://www.tableau.com/covid-19-coronavirus-data-resources
 - Harvard Dataverse: [Medicine, Health and Life Sciences search](https://dataverse.harvard.edu/dataverse/harvard?q=&fq0=subject_ss%3A%22Medicine,%20Health%20and%20Life%20Sciences%22&types=dataverses%3Adatasets&sort=dateSort&order=desc)
 - covid19-r: https://github.com/mine-cetinkaya-rundel/covid19-r#data
+- Towards Data Science: [Top 35 R resources on Novel COVID-19 Coronavirus](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
 
