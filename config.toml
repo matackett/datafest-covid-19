@@ -37,12 +37,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
   
-[[menu.main]]
-  weight = 3
-  identifier = "signup"
-  name = "Sign Up"
-  pre = "<i class='fas fa-user-plus fa-lg'></i>"
-  url = "/signup.html"
+  [[menu.main]]
+  weight = 1.5
+  identifier = "winners"
+  name = "Winners"
+  pre = "<span class=\"material-icons\">emoji_events</span>"
+  url = "/winners.html"
   
 [[menu.main]]
   weight = 2
@@ -50,6 +50,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Details"
   pre = "<i class=\"material-icons\">description</i>"
   url = "/details.html"
+  
+[[menu.main]]
+  weight = 3
+  identifier = "signup"
+  name = "Sign Up"
+  pre = "<i class='fas fa-user-plus fa-lg'></i>"
+  url = "/signup.html"
+  
 
  [[menu.main]]
   weight = 4
@@ -64,6 +72,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Sponsors"
   pre = "<i class='fas fa-life-ring'></i>"
   url = "/sponsors.html"
+
 
 
 
