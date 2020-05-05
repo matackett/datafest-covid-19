@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>/winners.html</loc>
+  </url>
+  
+  <url>
     <loc>/resources.html</loc>
   </url>
   
@@ -32,10 +36,6 @@
   
   <url>
     <loc>/tags.html</loc>
-  </url>
-  
-  <url>
-    <loc>/winners.html</loc>
   </url>
   
 </urlset>

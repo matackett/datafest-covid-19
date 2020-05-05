@@ -23,6 +23,16 @@ Do I have to compete in a team? DataFest is a collaborative competition, so we s
     </item>
     
     <item>
+      <title>DataFest: COVID-19 Virtual Data Challenge Winners</title>
+      <link>/winners.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/winners.html</guid>
+      <description>Thank you to everyone who participated in the virtual data challenge! The submissions were outstanding and each provided a unique insight into a societal impact of the global pandemic. A group of 15 judges from academia and industry reviewed the submissions to select winners in a variety of categories. Congratulations to all of this year&#39;s winners! Click below to view their projects. 
+Most Creative Topic or Data set emoji_events Dreams in the Time of COVID-19  by Apoorv Jha Write up + Dashboard</description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>/resources.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,16 +68,6 @@ If you have any questions about registration, please contact Maria Tackett.</des
       <description>We would like to thank our sponsors ASA DataFest: COVID-19 Data Challenge!
 
 The Department of Statistical Science at Duke is nationally ranked in the top 5 research departments and as a top 10 graduate program. The Department currently (mid-late 2015) has 18 faculty, ~45 PhD students, ~70 MS students, ~70 research-active undergraduate majors, numerous postdocs, visitors, and affiliated researchers listed under People. Recognized as the world&#39;s leading center for Bayesian statistics and its interdisciplinary applications, the Department is a Duke campus hub for statistical and computational research.</description>
-    </item>
-    
-    <item>
-      <title>Winners</title>
-      <link>/winners.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/winners.html</guid>
-      <description>Congratulations to the winners of the ASA DataFest: COVID-19 Virtual Data Challenge!
-Most Creative Topic Best Visualization Best Interactive Dashboard Judges&#39; Pick </description>
     </item>
     
   </channel>

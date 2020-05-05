@@ -4,9 +4,24 @@ description: "COVID-19 Virtual Data Challenge"
 markup: "mmark"
 ---
 
-### Competition starts April 8! 
+<p style="border:3px; border-style:solid; border-color:#0577B1; padding: 1em; font-size: 25px;">
+<br>
 
-<br><br>
+Congratulations to the winners of the ASA DataFest: Virtual Data Challenge! <a href = "https://www2.stat.duke.edu/datafest-covid19/winners.html">Click here</a> to check out their projects!
+<br><br> 
+
+Thank you to everyone who submitted a project or volunteered as a consultant or judge. We look forward to seeing you all at DataFest 2021! 
+<br>
+
+</p>
+
+<br>
+
+<!--
+### Competition starts April 8! 
+-->
+
+<br>
 
 There is currently a lot of work being done on modeling direct health outcomes of the COVID-19 pandemic, such as prediction new cases or mortality rates. You can read more about the complexities of doing such analyses in the article ["Why It’s So Freaking Hard to Make a Good COVID-19 Model”](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/). 
 
